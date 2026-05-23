@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="120" viewBox="0 0 220 120" role="img" aria-labelledby="title desc">
+  <title id="title">YIC Marketplace logo</title>
+  <desc id="desc">Simple Yanbu Industrial College marketplace mark.</desc>
+  <rect width="220" height="120" rx="12" fill="#004a99"/>
+  <circle cx="62" cy="60" r="34" fill="#ffffff"/>
+  <path d="M42 58h40v10H42zM50 42h24v10H50zM50 74h24v10H50z" fill="#004a99"/>
+  <text x="112" y="56" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#ffffff">YIC</text>
+  <text x="112" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#d9ecff">Marketplace</text>
+</svg>

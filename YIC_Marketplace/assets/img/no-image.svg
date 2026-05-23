@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">No image available</title>
+  <desc id="desc">A simple YIC Marketplace placeholder image.</desc>
+  <rect width="640" height="420" fill="#eef2f5"/>
+  <rect x="48" y="48" width="544" height="324" rx="8" fill="#ffffff" stroke="#d6dde5" stroke-width="4"/>
+  <circle cx="230" cy="166" r="42" fill="#c9d5e2"/>
+  <path d="M112 326l118-104 72 62 64-78 162 120z" fill="#dbe4ee"/>
+  <text x="320" y="374" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#004a99">YIC Marketplace</text>
+</svg>
